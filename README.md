@@ -47,7 +47,7 @@ To get started with the project locally, follow these steps:
     After the dependencies are installed, run the following to start the development server:
     ```bash
     npm run dev
-    ``
+    ```
 
 This will open up the project in your default browser at [http://localhost:5173/](http://localhost:5173/).
 
@@ -83,7 +83,7 @@ The footer contains important links, social media buttons, and app download link
 
 ## Screenshots
 
-![StorySpark Landing Page](https://via.placeholder.com/800x400?text=Screenshot+of+Landing+Page)
+![StorySpark Landing Page](public/image.png)
 *The landing page UI for StorySpark showing smooth scroll navigation.*
 
 ## Technologies Used
@@ -117,4 +117,4 @@ We welcome contributions to improve this landing page. If you would like to cont
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](http://_vscodecontentref_/2) file for details.
