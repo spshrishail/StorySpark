@@ -1,6 +1,6 @@
 # StorySpark - Landing Page
 
-**StorySpark** is a creative and engaging way to turn your child into a superhero. With simple steps and powerful personalization features, you can create custom video stories featuring your child. This is a landing page project for the StorySpark service, built using **React** and **Tailwind CSS** with animated and responsive design components.
+**StorySpark** is a creative and engaging way to turn your child into a superhero. With simple steps and powerful personalization features, you can create custom video stories featuring your child. This is a landing page project for the StorySpark service, built using **React** and **Tailwind CSS**, with animated and responsive design components, powered by **Vite**.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -31,24 +31,25 @@ To get started with the project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/storyspark-landing-page.git
+    git clone https://github.com/spshrishail/StorySpark.git
     ```
 2. **Navigate to the project folder**:
     ```bash
-    cd storyspark-landing-page
+    cd StorySpark
     ```
 3. **Install the dependencies**:
-    Make sure you have **Node.js** and **npm** installed. Then run:
+    Ensure you have **Node.js** installed, then run:
     ```bash
     npm install
     ```
+    
 4. **Run the project**:
     After the dependencies are installed, run the following to start the development server:
     ```bash
-    npm start
-    ```
+    npm run dev
+    ``
 
-This will open up the project in your default browser at [http://localhost:3000](http://localhost:3000).
+This will open up the project in your default browser at [http://localhost:5173/](http://localhost:5173/).
 
 ## Usage
 
@@ -88,6 +89,7 @@ The footer contains important links, social media buttons, and app download link
 ## Technologies Used
 
 - **React**: A JavaScript library for building user interfaces.
+- **Vite**: A next-generation build tool that provides faster builds and hot module replacement (HMR).
 - **Tailwind CSS**: Utility-first CSS framework used for styling.
 - **SimpleBar**: A custom scrollbar solution used to enhance the page's visual feel.
 - **Lucide-React**: A library of icons used throughout the landing page.
@@ -116,4 +118,3 @@ We welcome contributions to improve this landing page. If you would like to cont
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
