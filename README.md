@@ -1,6 +1,6 @@
 # StorySpark - Landing Page
 
-**StorySpark** is a creative and engaging way to turn your child into a superhero. With simple steps and powerful personalization features, you can create custom video stories featuring your child. This is a landing page project for the StorySpark service, built using **React** and **Tailwind CSS**, with animated and responsive design components, powered by **Vite**.
+**StorySpark** is a creative and engaging way to turn your child into a superhero. With simple steps and powerful personalization features, you can create custom video stories featuring your child. This is a landing page project for the StorySpark service, built using **React**, **Tailwind CSS**, and **TypeScript**, with animated and responsive design components, powered by **Vite**.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
