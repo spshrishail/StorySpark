@@ -6,6 +6,7 @@
 - [Project Overview](#project-overview)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Demo](#demo)
 - [Components](#components)
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
@@ -50,6 +51,11 @@ To get started with the project locally, follow these steps:
     ```
 
 This will open up the project in your default browser at [http://localhost:5173/](http://localhost:5173/).
+
+## Demo
+
+Check out the live demo of the **StorySpark** landing page here:  
+[**StorySpark Demo**](https://story-spark-ten.vercel.app/)
 
 ## Usage
 
